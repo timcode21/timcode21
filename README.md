@@ -1,37 +1,34 @@
 ## Hi there 👋
 
-# I am Michael
+# I am Michael Oguntoye
 
-I work with business data to uncover patterns that support better operational and commercial decisions.
+Data Analyst focused on turning business data into structured insights that support operational and commercial decisions.
 
-With experience in production and operational environments, I approach analysis with practical context; understanding how sales, inventory, and performance metrics affect real business outcomes.
-
-My focus is simple:
-Bring structure to raw data and present insights in a way that supports clear, informed decision-making.
+With experience in production and operational environments, I approach analysis with practical context — understanding how sales, inventory, and performance metrics affect real outcomes.
 
 ---
 
-## What I Focus On
+## What I Do
 
-- Sales and performance analysis  
-- Product and demand evaluation  
-- Revenue and trend monitoring  
-- Operational data interpretation  
-- Structured business reporting  
-
-I prioritize clarity, logical thinking, and business relevance over complexity.
+- Analyze sales and performance data  
+- Evaluate product demand and revenue trends  
+- Interpret operational metrics  
+- Build structured dashboards and reports  
+- Present findings in a clear, decision-ready format  
 
 ---
 
 ## Approach
 
-- Understand the business question first  
-- Clean and structure the data  
-- Identify meaningful patterns  
-- Present insights in a clear, decision-ready format  
+1. Define the business question  
+2. Clean and structure the data  
+3. Identify meaningful patterns  
+4. Translate results into actionable insight  
+
+Clarity and relevance guide every step.
 
 ---
 
 ## Tools
 
-Excel | Power BI | DAX | Power Query | SQL 
+Power BI | Excel | DAX | Power Query | SQL

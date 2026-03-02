@@ -4,7 +4,7 @@
 
 Data Analyst focused on turning business data into structured insights that support operational and commercial decisions.
 
-With experience in production and operational environments, I approach analysis with practical context — understanding how sales, inventory, and performance metrics affect real outcomes.
+With experience in production and operational environments, I approach analysis with practical context; understanding how sales, inventory, and performance metrics affect real outcomes.
 
 ---
 
